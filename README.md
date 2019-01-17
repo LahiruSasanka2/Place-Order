@@ -1,29 +1,30 @@
-#POS system **Place Order** Form
-`This Place Order Form Create the Dynamicly Store the data run time Only.`
+#  POS system **Place Order** Form
 
-_POS System View Given bellow :_ 
+`  This Place Order Form Create the Dynamicly Store the data run time Only.  `
 
-#####View 01
+_  POS System View Given bellow :  _ 
+
+#####  View 01
 
 ![Image of Yaktocat](images/READMEImg-1.png)
 
-#####View 02
+#####  View 02
 
 ![Image of Yaktocat](images/READMEImg-2.png)
 
-#####View 03
+#####  View 03
 
 ![Image of Yaktocat](images/READMEImg-3.png)
 
-#####View 04
+#####  View 04
 
 ![Image of Yaktocat](images/READMEImg-4.png)
 
-#####View 05
+#####  View 05
 
 ![Image of Yaktocat](images/READMEImg-5.png)
 
-###Functionality This Project
+###  Functionality This Project
 
 * Auto Generate OrderID
 * Add to cart Items
@@ -32,13 +33,13 @@ _POS System View Given bellow :_
 * Select Item & Customer Details Add Order Details
 * Order Details Click and get the all Record Order ID
 
-###Feedback
+###  Feedback
 * Ask a question on Stack Overflow.
 * Request a new feature on GitHub.
 
-###Bundled Extensions
+###  Bundled Extensions
 
 This Project crete the using programming language are HTML5 | CSS 3 | ECMASCRIPT | Booststrap.
 
-###Copyright
+###  Copyright
 LahiruSasanka (c) DEP IJSE 2019
